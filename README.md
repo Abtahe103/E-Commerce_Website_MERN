@@ -87,7 +87,7 @@ npm run dev
 
 <h3>🏠 Home Page</h3>
 <div align="center">
-  <img src="HomePage.png" alt="Home Page" width="1000" height="500">
+  <img src="image/HomePage.png" alt="Home Page" width="1000" height="500">
   <p><em>Fig 1: Website Homepage</em></p>
 </div>
 
