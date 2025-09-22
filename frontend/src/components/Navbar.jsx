@@ -9,7 +9,7 @@ const Navbar = () => {
 const { colorMode, toggleColorMode } = useColorMode();
   return (
    
-    <Container maxW={"1140px"} px={4}>
+    <Container maxW={"1340px"} px={4}>
         <Flex
             h={16}
             alignItems={"center"}
@@ -43,6 +43,16 @@ const { colorMode, toggleColorMode } = useColorMode();
 
                 </Button>
 
+                <Link to={"/login"}>
+                    <Button
+                        ml={5}
+                        bgGradient="linear(to-r, blue.200, blue.400)"
+                         _hover={{
+                        bgGradient: "linear(to-r, blue.500, cyan.400)",
+                        boxShadow: "0 0 10px 2px rgba(0, 153, 255, 0.5)",
+                        }}
+                    >Login</Button>
+                </Link>
             </HStack>
         </Flex>
     </Container>

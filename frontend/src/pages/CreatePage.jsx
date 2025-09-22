@@ -41,7 +41,7 @@ const CreatePage = () => {
         </Heading>
 
         <Box
-          w={"full"} bg={useColorModeValue("white", "gray.800")}
+          w={"full"} bg={useColorModeValue("white", "gray.700")}
           p={6} rounded={"lg"} shadow={"md"}
         >
         
@@ -52,6 +52,7 @@ const CreatePage = () => {
               value={newProduct.name}
               onChange={(e) => setNewProduct({ ...newProduct, name: e.target.value })}
             />
+
             <Input
 							placeholder='Price'
 							name='price'
@@ -59,6 +60,7 @@ const CreatePage = () => {
 							value={newProduct.price}
 							onChange={(e) => setNewProduct({ ...newProduct, price: e.target.value })}
 						/>
+
 						<Input
 							placeholder='Image URL'
 							name='image'
