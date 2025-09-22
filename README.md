@@ -87,31 +87,31 @@ npm run dev
 
 <h3>🏠 Home Page</h3>
 <div align="center">
-  <img src="image/HomePage.png" alt="Home Page" width="1000" height="500">
+  <img src="images/HomePage.png" alt="Home Page" width="1000" height="500">
   <p><em>Fig 1: Website Homepage</em></p>
 </div>
 
 <h3>🔑 Login Page</h3>
 <div align="center">
-  <img src="LoginPage.png" alt="Login Page" width="1000" height="500">
+  <img src="images/LoginPage.png" alt="Login Page" width="1000" height="500">
   <p><em>Fig 2: Login Page</em></p>
 </div>
 
 <h3>📝 Register Page</h3>
 <div align="center">
-  <img src="RegisterPage.png" alt="Register Page" width="1000" height="500">
+  <img src="images/RegisterPage.png" alt="Register Page" width="1000" height="500">
   <p><em>Fig 3: Register Page</em></p>
 </div>
 
 <h3>➕ Create Product Page</h3>
 <div align="center">
-  <img src="CreatePage.png" alt="Create Product Page" width="1000" height="500">
+  <img src="images/CreatePage.png" alt="Create Product Page" width="1000" height="500">
   <p><em>Fig 4: Create Product Page</em></p>
 </div>
 
 <h3>✏️ Update Product Page</h3>
 <div align="center">
-  <img src="UpdateProduct.png" alt="Update Product Page" width="1000" height="500">
+  <img src="images/UpdateProduct.png" alt="Update Product Page" width="1000" height="500">
   <p><em>Fig 5: Update Product Page</em></p>
 </div>
 
