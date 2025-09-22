@@ -44,10 +44,10 @@ The project supports full CRUD operations for products and integrates authentica
 </ul>
 
 <h3>2️⃣ Clone the Repository</h3>
-<pre><code>git clone https://github.com/your-username/mern-ecommerce.git</code></pre>
+<pre><code>https://github.com/Abtahe103/E-Commerce_Website_MERN.git</code></pre>
 
 <h3>3️⃣ Navigate to the Project Directory</h3>
-<pre><code>cd mern-ecommerce</code></pre>
+<pre><code>cd E-Commerce_Website_MERN</code></pre>
 
 <h3>4️⃣ Install Dependencies</h3>
 <p><b>For backend:</b></p>
